@@ -1,5 +1,3 @@
--- Created by Vertabelo (http://vertabelo.com)
--- Last modification date: 2023-03-08 19:39:48.983
 
 -- tables
 -- Table: NITRE_ALLERGY
